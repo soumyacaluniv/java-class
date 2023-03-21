@@ -1,0 +1,30 @@
+10
+20
+30
+56
+95
+11
+2
+68
+52
+13
+
+Element not found.
+Element not found.
+Element not found.
+Element found at index : 1
+Element found at index : 1
+Element found at index : 1
+Element found at index : 1
+Element found at index : 1
+Element found at index : 1
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element not found.
+Element found at index : 1
